@@ -7,3 +7,4 @@ class Solution(object):
             if nums[i] > nums[(i+1)%n]:
                 count+=1
         return count<=1        
+#Time Complexity o(n)
