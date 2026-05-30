@@ -6,3 +6,4 @@ class Solution:
            if nums[i]>largest:
                largest=nums[i]
        return largest    
+#Time Complexity o(n)
