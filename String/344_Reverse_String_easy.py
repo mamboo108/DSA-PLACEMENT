@@ -9,3 +9,4 @@ class Solution(object):
 
 Time complexity = o(n)
 Space Complexity = o(1)
+2 pointer method
